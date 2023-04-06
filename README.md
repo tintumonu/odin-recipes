@@ -1,2 +1,2 @@
 # odin-recipes
-odin-recipes with html
+odin-recipes using html
